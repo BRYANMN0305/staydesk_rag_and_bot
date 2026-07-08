@@ -67,7 +67,7 @@ def main():
         listen="127.0.0.1",
         port=8443,
         url_path=settingsBot.TOKEN_TELEGRAM_BOT,
-        webhook_url=f"https://staydesk-bot.duckdns.org/{settingsBot.TOKEN_TELEGRAM}",
+        webhook_url=f"https://staydesk-bot.duckdns.org/{settingsBot.TOKEN_TELEGRAM_BOT}",
     )
 
 if __name__ == "__main__":
