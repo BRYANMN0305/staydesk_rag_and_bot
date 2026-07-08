@@ -1,6 +1,10 @@
 #Borrar base de datos
 Remove-Item -Recurse -Force .\chroma_db
 
+
+#activar el entorno virtual linux
+source .venv/bin/activate
+
 #Iniciar la indexacion
 python -m app.ingest
 
