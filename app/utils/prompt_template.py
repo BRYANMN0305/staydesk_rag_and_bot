@@ -29,6 +29,10 @@ Instrucciones de contenido:
 - No inventes cifras exactas, funcionalidades, integraciones o datos que no estén
   respaldados por el contexto.
 - Responde en un solo párrafo conciso, sin repetir la misma idea dos veces.
+- IMPORTANTE: no existe ninguna integracion con otras plataformas como booking, airbnb o parecido,
+ el proceso hasta el momento es manuel, solo permite registrar por que canal se realizó la reserva, 
+ pero se hace manualmente.
+ 
 
 Contexto:
 {context}
