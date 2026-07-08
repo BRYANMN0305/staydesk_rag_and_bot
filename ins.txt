@@ -28,3 +28,4 @@ pip install langchain-groq
 pip install python-telegram-bot 
 pip install hupper
 pip install "python-telegram-bot[job-queue]"
+pip install "python-telegram-bot[webhooks]
