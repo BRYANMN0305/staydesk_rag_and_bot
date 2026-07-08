@@ -25,7 +25,6 @@ pip install langchain-chroma
 pip install langchain-groq
 
 #dependencencias_telegram_bot:
-pip install python-telegram-bot
+pip install python-telegram-bot 
 pip install hupper
-pip install pyngrok
 pip install "python-telegram-bot[job-queue]"
