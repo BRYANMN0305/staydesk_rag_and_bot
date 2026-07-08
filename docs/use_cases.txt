@@ -1,0 +1,32 @@
+STAYDESK - CASOS DE USO POR TIPO DE HOTEL Y PERFIL
+Categoría: casos_uso
+
+CASO 1: Hotel pequeño (10-25 habitaciones)
+Un hotel con pocas habitaciones suele operar con un equipo reducido donde una misma persona cumple varias funciones. StayDesk le permite a este tipo de hotel tener control de reservas y disponibilidad sin necesidad de un equipo de sistemas dedicado, configurar sus propias tarifas de temporada (por ejemplo, tarifas más altas en fechas de eventos locales) y llevar un registro ordenado de huéspedes recurrentes, sin la complejidad de un sistema empresarial pensado para grandes cadenas.
+
+CASO 2: Hotel mediano con varios turnos de personal
+Cuando el hotel tiene turnos de recepción rotativos, StayDesk aporta valor mediante la trazabilidad: cada acción queda asociada a un usuario y un rol específico, de modo que si hay una duda sobre un cambio de reserva o un ajuste de precio, se puede rastrear quién lo hizo y cuándo. Los roles y permisos evitan que, por ejemplo, un recepcionista nuevo pueda anular facturas sin autorización.
+
+CASO 3: Hotel con alta rotación de reservas por canales externos
+Un hotel que recibe reservas simultáneamente por su propia web, por Booking.com y por Airbnb enfrenta el riesgo de sobreventa de habitaciones. StayDesk aborda este problema mediante sincronización de calendarios entre canales, reduciendo el riesgo de que la misma habitación se venda dos veces en distintas plataformas para las mismas fechas.
+
+CASO 4: Grupo familiar o corporativo que se hospeda junto
+Cuando una reserva incluye varias personas —un titular y acompañantes, incluyendo menores de edad o personas sin documento completo a la mano— StayDesk permite registrar a los acompañantes con datos simplificados sin bloquear el proceso de reserva, mientras mantiene el documento completo obligatorio únicamente para el titular responsable de la reserva.
+
+CASO 5: Empresa que reserva habitaciones para sus empleados
+Una empresa puede reservar habitaciones para un empleado que viaja por trabajo, pero la factura debe emitirse a nombre de la empresa y no del huésped. StayDesk soporta este escenario de forma nativa: quien se hospeda y quien recibe la factura pueden ser entidades distintas, incluyendo facturación a personas jurídicas u organizaciones.
+
+CASO 6: Gerente o dueño que no está físicamente en el hotel
+Un dueño de hotel que supervisa la operación de forma remota, sin estar presente en recepción todos los días, necesita visibilidad rápida de cómo va su negocio: ocupación actual, ingresos del día, o desempeño comparado entre canales de reserva. El módulo de reportes y dashboard de StayDesk está pensado para dar esa visibilidad sin que el gerente tenga que revisar reserva por reserva.
+
+CASO 7: Hotel con cancelaciones frecuentes y políticas variables por temporada
+Un hotel que quiere aplicar reglas de cancelación distintas según qué tan cerca esté la fecha de llegada (por ejemplo, cancelar con un mes de anticipación no genera penalidad, pero cancelar el mismo día sí) puede configurar tramos de porcentaje escalonados dentro de StayDesk, y decidir si la compensación es un reembolso o un crédito a favor del huésped.
+
+CASO 8: Equipo de housekeeping con múltiples habitaciones pendientes
+Cuando hay varias habitaciones por limpiar tras los check-outs del día, StayDesk asigna las tareas de forma ordenada (por orden de llegada) a un miembro específico del equipo de housekeeping, genera la tarea automáticamente al completarse un check-out, y conserva el historial de qué se hizo y en qué momento, evitando que una habitación quede sin atender por confusión sobre quién debía hacerlo.
+
+CASO 9: Hotel que aún no tiene un sistema y usa métodos manuales
+Un hotel que hoy gestiona reservas en cuadernos, hojas de cálculo o mensajes de WhatsApp enfrenta riesgos como dobles reservas, pérdida de historial de precios, y falta de control sobre quién hizo qué cambio. Migrar a StayDesk centraliza esa información en un solo sistema con reglas de negocio claras, sin perder la flexibilidad de operar como el hotel ya lo hace, solo que de forma más ordenada y con menos errores humanos.
+
+CASO 10: Prospecto evaluando adquirir StayDesk
+Alguien que está evaluando adquirir StayDesk para su hotel puede esperar una plataforma que se adapta a su forma particular de operar (no impone un flujo único), con control total sobre configuración de tarifas, roles, políticas y reportes, y sin necesidad de infraestructura técnica propia, ya que el acceso es completamente web.

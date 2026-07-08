@@ -1,0 +1,31 @@
+#Borrar base de datos
+Remove-Item -Recurse -Force .\chroma_db
+
+#Iniciar la indexacion
+python -m app.ingest
+
+#Ejecutar el servicio rarg
+uvicorn app.main:app --reload
+
+#Ejecutar el servicio telegram bot
+python -m app.mainbot
+
+#dependencias_rag:
+pip install langchain langchain-community langchain-huggingface
+pip install chromadb
+pip install huggingface_hub
+pip install pypdf
+pip install python-dotenv
+pip install sentence-transformers
+pip install fastapi uvicorn[standard]
+pip install pydantic
+pip install langchain-text-splitters
+pip install langchain-core
+pip install langchain-chroma
+pip install langchain-groq
+
+#dependencencias_telegram_bot:
+pip install python-telegram-bot
+pip install hupper
+pip install pyngrok
+pip install "python-telegram-bot[job-queue]"

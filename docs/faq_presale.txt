@@ -1,0 +1,44 @@
+STAYDESK - PREGUNTAS FRECUENTES DE PREVENTA
+Categoría: FAQ
+
+P: ¿Qué es StayDesk?
+R: StayDesk es un sistema de gestión hotelera (PMS - Property Management System) multi-tenant pensado para hoteles pequeños y de tamaño mediano. Está diseñado para el personal del hotel (recepción, housekeeping, administración), no para que lo usen los huéspedes directamente. Centraliza reservas, habitaciones, huéspedes, facturación, mantenimiento, inventario y reportes en un solo lugar.
+
+P: ¿StayDesk sirve para un hotel con una sola sucursal o para cadenas con varias propiedades?
+R: Ambos casos. StayDesk es multi-tenant, lo que significa que una misma plataforma puede operar múltiples hoteles de forma completamente independiente y segura. Cada hotel tiene su propia información, configuración, tarifas, usuarios y reportes, sin que un hotel pueda ver o afectar los datos de otro. Si tienes una cadena, cada propiedad se gestiona como una unidad separada dentro de la misma plataforma.
+
+P: ¿Qué tan personalizable es StayDesk?
+R: Muy personalizable. Cada hotel puede configurar sus propios impuestos, tarifas por temporada, descuentos por día de la semana, políticas de cancelación escalonadas, roles y permisos de sus empleados, y el flujo operativo de check-in/check-out según cómo trabaje su equipo. No es un sistema rígido con un único flujo forzado: se adapta a la operación real del hotel.
+
+P: ¿Necesito instalar algo o comprar servidores propios?
+R: No. StayDesk funciona como una aplicación web accesible desde cualquier navegador, tanto en computador como en dispositivos móviles. El personal puede acceder desde recepción, desde una tablet en housekeeping, o desde el celular de un supervisor. No se requiere infraestructura física adicional por parte del hotel.
+
+P: ¿StayDesk se integra con plataformas como Booking.com o Airbnb?
+R: StayDesk está diseñado con integraciones de canales de distribución como un objetivo central de su hoja de ruta, empezando por sincronización de calendarios (iCal) para evitar sobreventas entre canales, con miras a integraciones más profundas vía Channel Manager en el futuro.
+
+P: ¿Qué pasa si un huésped no tiene documento de identidad completo al momento de registrarse, como un acompañante menor de edad o alguien sin documentación a mano?
+R: StayDesk permite registrar acompañantes de una reserva sin exigir un perfil completo de huésped para cada uno. El titular de la reserva sí requiere documento completo, pero los acompañantes pueden registrarse con datos básicos (nombre y documento simple), evitando fricción operativa sin perder trazabilidad.
+
+P: ¿Cómo maneja StayDesk los precios y las temporadas?
+R: El sistema calcula el precio de cada noche de forma individual, aplicando en cascada: primero tarifas de temporada especial (alta, baja, eventos), luego descuentos configurados por día de la semana, y si ninguno aplica, el precio base de la habitación. El precio calculado queda guardado como historial, así que aunque cambien las tarifas después, la reserva conserva el precio que se cobró en su momento.
+
+P: ¿Una reserva genera automáticamente una factura?
+R: La facturación en StayDesk está desacoplada del proceso de check-out: una factura se puede generar en cualquier momento del ciclo de la reserva, no solo al finalizar la estadía. Además, la persona o entidad a quien se factura puede ser distinta del huésped titular (por ejemplo, facturar a una empresa en lugar de al huésped que se hospedó).
+
+P: ¿StayDesk soporta pagos con múltiples métodos en una sola factura?
+R: Sí. Una factura puede recibir pagos combinados —por ejemplo, una parte en efectivo y otra con tarjeta— y el sistema controla el estado de la factura (activa, parcialmente pagada, pagada, anulada) según los abonos registrados.
+
+P: ¿Cómo funciona el mantenimiento y la limpieza de habitaciones (housekeeping)?
+R: StayDesk gestiona las tareas de housekeeping bajo un esquema de atención por orden de llegada (FIFO), asignando cada tarea a un empleado específico y dejando un historial completo de auditoría. Cuando un huésped hace check-out, el sistema puede crear automáticamente la tarea de limpieza correspondiente, sin que el personal tenga que recordarlo manualmente.
+
+P: ¿Qué pasa si un huésped cancela su reserva?
+R: Cada hotel configura sus propias políticas de cancelación, con porcentajes escalonados según qué tan cerca de la fecha de llegada se cancele (por ejemplo, cancelar con 30 días de anticipación puede tener una penalidad distinta a cancelar el mismo día). El hotel puede decidir si ofrece crédito a favor o reembolso directo.
+
+P: ¿StayDesk tiene reportes o solo sirve para operación diaria?
+R: StayDesk incluye un módulo de reportes y dashboard pensado para dar visibilidad gerencial: ocupación, ingresos, desempeño por canal de reserva, entre otros indicadores, para que los dueños o gerentes no dependan de revisar reserva por reserva para entender cómo va su negocio.
+
+P: ¿Qué diferencia a StayDesk de una hoja de cálculo o un cuaderno de reservas?
+R: A diferencia de una hoja de cálculo, StayDesk previene errores de doble reserva de habitaciones, mantiene trazabilidad completa de cada acción (quién hizo qué y cuándo), separa los permisos de cada empleado según su rol, y conserva un historial fiel de precios y datos de facturación aunque la configuración cambie después.
+
+P: ¿StayDesk sirve para hoteles pequeños o solo para grandes cadenas?
+R: Está pensado específicamente para hoteles pequeños y de tamaño mediano, donde la operación necesita orden y profesionalismo, pero sin la complejidad y el costo de los sistemas empresariales diseñados para grandes cadenas hoteleras internacionales.

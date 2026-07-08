@@ -1,0 +1,37 @@
+STAYDESK - FICHA RÁPIDA DEL PRODUCTO
+Categoría: datos_rapidos
+
+Nombre del producto: StayDesk
+Tipo de software: Sistema de gestión hotelera (Property Management System - PMS)
+Público objetivo: Hoteles pequeños y de tamaño mediano
+Usuarios del sistema: Personal del hotel (recepción, housekeeping, administración, gerencia) — no está dirigido a huéspedes finales
+Modelo de arquitectura: Multi-tenant — una sola plataforma opera múltiples hoteles de forma aislada y segura
+Acceso: Aplicación web, compatible con computador, tablet y celular, sin necesidad de instalar software ni comprar servidores propios
+
+Módulos principales que ofrece StayDesk:
+- Gestión de reservas, con soporte para múltiples habitaciones por reserva y ocupantes titulares y acompañantes
+- Búsqueda de disponibilidad de habitaciones en tiempo real
+- Check-in y check-out
+- Gestión de housekeeping (limpieza y mantenimiento de habitaciones)
+- Solicitudes especiales de huéspedes durante su estadía
+- Extensiones de estadía, cancelaciones y control de no-show
+- Facturación con múltiples métodos de pago y facturación desacoplada del check-out
+- Configuración de tarifas, temporadas y descuentos por día de la semana
+- Notificaciones internas para el personal
+- Gestión de inventario de insumos y servicios
+- Reportes y dashboard gerencial
+- Administración de usuarios, roles y permisos por hotel
+
+Nivel de personalización: Alto. Cada hotel configura sus propios impuestos, tarifas, políticas de cancelación, roles de empleados y flujo operativo, sin depender de un modelo único forzado para todos los hoteles.
+
+Seguridad y control de acceso: Cada empleado tiene un rol con permisos específicos asignados; el sistema controla qué puede ver y hacer cada usuario según su rol dentro de su hotel.
+
+Historial y trazabilidad: El sistema conserva un registro histórico de auditoría de las acciones del personal, y guarda de forma fija los precios y datos aplicados a cada factura, aunque las tarifas del catálogo cambien después.
+
+Facturación flexible: Una reserva puede facturarse a una persona natural, jurídica o a una organización distinta del huésped que se hospedó, y admite pagos combinados con distintos métodos dentro de una misma factura.
+
+Integraciones de canales externos: Contempla sincronización con plataformas de reservas externas (como Booking.com y Airbnb) mediante calendarios compartidos (iCal), con una hoja de ruta hacia integraciones más avanzadas mediante Channel Manager.
+
+Filosofía de producto: Libertad operativa. StayDesk no impone un único flujo de trabajo; se adapta a cómo cada hotel realmente opera, dando control total sobre configuración y reglas de negocio.
+
+Frase de valor sugerida: "Con StayDesk tienes libertad al 100%: todo es personalizable a tu gusto y a tu operatividad."
