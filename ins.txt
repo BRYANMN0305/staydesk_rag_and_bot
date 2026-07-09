@@ -1,6 +1,8 @@
 #Borrar base de datos
 Remove-Item -Recurse -Force .\chroma_db
 
+#Borrar base de datos linux
+rm -rf ./chroma_db
 
 #activar el entorno virtual linux
 source .venv/bin/activate
